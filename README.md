@@ -1,3 +1,3 @@
 # strings
 
-<!-- https://agatalub.github.io/strings/. -->
+<!-- https://agatalub.github.io/strings/ -->
