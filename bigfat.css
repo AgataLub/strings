@@ -1,0 +1,13 @@
+#interface {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+  line-height: 2em;
+}
+
+#input {
+}
+
+.surprise {
+  background-color: hotpink;
+}
